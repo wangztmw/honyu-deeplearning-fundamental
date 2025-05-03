@@ -1,4 +1,4 @@
 *-gitignore/
-.gitigore
+*.gitignore
 *.ipynb_checkpoints/
 .DS_Store
